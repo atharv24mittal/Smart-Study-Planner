@@ -187,10 +187,10 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-Atharv Mittal
-Aryaman Singh
-Arya Deshpande
-Anusha Shrivastava
+* Atharv Mittal
+* Aryaman Singh
+* Arya Deshpande
+* Anusha Shrivastava
 ---
 
 ## ⭐ If you like this project
