@@ -76,13 +76,20 @@ DataStore (In-memory storage)
 
 ## 📸 Screenshots
 
-(Add Login Page Screenshot)
-(Add Register Page Screenshot)
-(Add Dashboard Screenshot)
-(Add Study Plan Screenshot)
-(Add Scheduler Screenshot)
-(Add Progress Screenshot)
-(Add Notifications Screenshot)
+<img width="1895" height="920" alt="image" src="https://github.com/user-attachments/assets/64a388a4-f173-4ee3-8116-237caf3f45f4" />
+
+<img width="1872" height="911" alt="image" src="https://github.com/user-attachments/assets/135a2f7f-dba1-44da-b8f3-1bfbef8c1ae9" />
+
+<img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/983b85fc-c957-4f37-a829-0bb25d9a3821" />
+
+<img width="1877" height="942" alt="image" src="https://github.com/user-attachments/assets/cb05167f-a3ce-4a3d-bdd2-cf9d3415a8d6" />
+
+<img width="1882" height="692" alt="image" src="https://github.com/user-attachments/assets/02c43f25-0398-4224-adfb-98be7cb72875" />
+
+<img width="1887" height="709" alt="image" src="https://github.com/user-attachments/assets/6e22a249-bc83-4822-b598-c9213eb6f780" />
+
+<img width="1880" height="563" alt="image" src="https://github.com/user-attachments/assets/166356aa-dcca-4716-86cf-3657c5f02c5d" />
+
 
 ---
 
